@@ -1,0 +1,13 @@
+12
+P001 daizy 业余 10级 1
+P002 kej 职业 九段 9442
+P008 hum 职业 九段 6666
+P011 minister 职业 七段 8848
+P007 cuit 业余 5段 233
+P012 lianx 职业 九段 5657
+P006 sunzq 业余 5级 666
+P010 captain 职业 八段 8848
+P004 chensj 业余 1级 80
+P009 chairpersons 职业 九段 8848
+P005 weizk 职业 初段 233
+P003 zhany 业余 1段 216
